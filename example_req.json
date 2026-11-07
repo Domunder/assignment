@@ -1,0 +1,607 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2026 The New York Times Company. All Rights Reserved.",
+  "response": {
+    "docs": [
+      {
+        "abstract": "A.I. has uncovered a horde of software flaws, which engineers are racing to fix before they can be exploited and abused by hackers.",
+        "byline": { "original": "By Kate Conger" },
+        "document_type": "article",
+        "headline": {
+          "main": "Silicon Valley Is Grappling With a Flood of Bugs Found by A.I.",
+          "kicker": "",
+          "print_headline": "Silicon Valley  Is Rushing to Fix A Flood of Bugs"
+        },
+        "_id": "nyt://article/cfa9a6a4-9dd6-5af9-a5be-c4093dfe2ae1",
+        "keywords": [
+          { "name": "Subject", "value": "Artificial Intelligence", "rank": 1 },
+          {
+            "name": "Subject",
+            "value": "Computers and the Internet",
+            "rank": 2
+          },
+          { "name": "Subject", "value": "Computer Security", "rank": 3 },
+          { "name": "Subject", "value": "Cyberattacks and Hackers", "rank": 4 },
+          { "name": "Subject", "value": "Software", "rank": 5 },
+          { "name": "Subject", "value": "Chrome (Browser)", "rank": 6 },
+          { "name": "Organization", "value": "CloudFlare Inc", "rank": 7 },
+          { "name": "Organization", "value": "Google Inc", "rank": 8 },
+          { "name": "Organization", "value": "Microsoft Corp", "rank": 9 },
+          { "name": "Organization", "value": "OpenAI Labs", "rank": 10 },
+          { "name": "Organization", "value": "PHP Foundation", "rank": 11 },
+          {
+            "name": "Organization",
+            "value": "Wiz Inc (Cybersecurity)",
+            "rank": 12
+          },
+          { "name": "Organization", "value": "Vals AI Inc", "rank": 13 }
+        ],
+        "multimedia": {
+          "caption": "",
+          "credit": "Ariel Davis",
+          "default": {
+            "url": "https://static01.nyt.com/images/2026/10/29/business/00ai-bugs/00ai-bugs-articleLarge.jpg",
+            "height": 750,
+            "width": 600
+          },
+          "thumbnail": {
+            "url": "https://static01.nyt.com/images/2026/10/29/business/00ai-bugs/00ai-bugs-thumbStandard.jpg",
+            "height": 75,
+            "width": 75
+          }
+        },
+        "news_desk": "Business",
+        "print_page": "1",
+        "print_section": "B",
+        "pub_date": "2026-10-28T09:04:38Z",
+        "section_name": "Technology",
+        "snippet": "A.I. has uncovered a horde of software flaws, which engineers are racing to fix before they can be exploited and abused by hackers.",
+        "source": "The New York Times",
+        "subsection_name": "",
+        "type_of_material": "News",
+        "uri": "nyt://article/cfa9a6a4-9dd6-5af9-a5be-c4093dfe2ae1",
+        "web_url": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
+        "word_count": 1262
+      },
+      {
+        "abstract": "After years of criticism and financial risk, Palantir, Anthropic and small start-ups are generating rewards from their investments in defense tech.",
+        "byline": { "original": "By Sheera Frenkel" },
+        "document_type": "article",
+        "headline": {
+          "main": "Silicon Valley Bet on War. The Bets Are PayingOff.",
+          "kicker": "",
+          "print_headline": "Tech’s Big Bet On Weapons Is Paying Off"
+        },
+        "_id": "nyt://article/895dfbc2-7e44-5695-92cf-49d9e28f2acc",
+        "keywords": [
+          { "name": "Subject", "value": "Artificial Intelligence", "rank": 1 },
+          {
+            "name": "Subject",
+            "value": "US and Israeli Attack on Iran (2026)",
+            "rank": 2
+          },
+          { "name": "Subject", "value": "Defense Contracts", "rank": 3 },
+          {
+            "name": "Subject",
+            "value": "Computers and the Internet",
+            "rank": 4
+          },
+          {
+            "name": "Subject",
+            "value": "United States Defense and Military Forces",
+            "rank": 5
+          },
+          {
+            "name": "Subject",
+            "value": "Drones (Pilotless Planes)",
+            "rank": 6
+          },
+          { "name": "Subject", "value": "Start-ups", "rank": 7 },
+          {
+            "name": "Subject",
+            "value": "Government Contracts and Procurement",
+            "rank": 8
+          },
+          {
+            "name": "Organization",
+            "value": "Anduril Industries Inc",
+            "rank": 9
+          },
+          { "name": "Organization", "value": "Anthropic AI LLC", "rank": 10 },
+          { "name": "Organization", "value": "Defense Department", "rank": 11 },
+          { "name": "Organization", "value": "Google Inc", "rank": 12 },
+          { "name": "Organization", "value": "OpenAI Labs", "rank": 13 },
+          {
+            "name": "Organization",
+            "value": "Palantir Technologies",
+            "rank": 14
+          },
+          { "name": "Person", "value": "Altman, Samuel H", "rank": 15 },
+          { "name": "Person", "value": "Andreessen, Marc L", "rank": 16 },
+          { "name": "Person", "value": "Karp, Alex", "rank": 17 },
+          { "name": "Person", "value": "Schmidt, Eric E", "rank": 18 },
+          { "name": "Location", "value": "Silicon Valley (Calif)", "rank": 19 },
+          {
+            "name": "Subject",
+            "value": "audio-neutral-informative",
+            "rank": 20
+          }
+        ],
+        "multimedia": {
+          "caption": "",
+          "credit": "Photo illustration by Max-o-Matic",
+          "default": {
+            "url": "https://static01.nyt.com/images/2026/03/17/business/00biz-valley-war-bets/00biz-valley-war-bets-articleLarge.jpg",
+            "height": 909,
+            "width": 600
+          },
+          "thumbnail": {
+            "url": "https://static01.nyt.com/images/2026/03/17/business/00biz-valley-war-bets/00biz-valley-war-bets-thumbStandard.jpg",
+            "height": 75,
+            "width": 75
+          }
+        },
+        "news_desk": "Business",
+        "print_page": "1",
+        "print_section": "A",
+        "pub_date": "2026-03-18T09:01:26Z",
+        "section_name": "Technology",
+        "snippet": "After years of criticism and financial risk, Palantir, Anthropic and small start-ups are generating rewards from their investments indefense tech.",
+        "source": "The New York Times",
+        "subsection_name": "",
+        "type_of_material": "News",
+        "uri": "nyt://article/895dfbc2-7e44-5695-92cf-49d9e28f2acc",
+        "web_url": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-war-defense-tech.html",
+        "word_count": 1066
+      },
+      {
+        "abstract": "Silicon Valley was never pacifist; it just followed the customers.",
+        "byline": { "original": "By Sharon Weinberger" },
+        "document_type": "article",
+        "headline": {
+          "main": "Silicon Valley Was Right From the Start",
+          "kicker": "Guest Essay",
+          "print_headline": "Silicon Valley Was Right-Wing From the Start"
+        },
+        "_id": "nyt://article/ddf71ab5-a3e5-5045-a805-6fd800a4a3dd",
+        "keywords": [
+          {
+            "name": "Subject",
+            "value": "Computers and the Internet",
+            "rank": 1
+          },
+          { "name": "Organization", "value": "Defense Department", "rank": 2 },
+          {
+            "name": "Subject",
+            "value": "United States Politics and Government",
+            "rank": 3
+          },
+          { "name": "Person", "value": "Trump, Donald J", "rank": 4 },
+          { "name": "Organization", "value": "Apple Inc", "rank": 5 },
+          { "name": "Location", "value": "China", "rank": 6 },
+          { "name": "Organization", "value": "Anthropic AI LLC", "rank": 7 },
+          { "name": "Organization", "value": "Google Inc", "rank": 8 },
+          { "name": "Organization", "value": "Oculus VR Inc", "rank": 9 }
+        ],
+        "multimedia": {
+          "caption": "",
+          "credit": "Brendan Conroy",
+          "default": {
+            "url": "https://static01.nyt.com/images/2026/08/20/opinion/17weinberger/17weinberger-articleLarge.jpg",
+            "height": 600,
+            "width": 600
+          },
+          "thumbnail": {
+            "url": "https://static01.nyt.com/images/2026/08/20/opinion/17weinberger/17weinberger-thumbStandard.jpg",
+            "height": 75,
+            "width": 75
+          }
+        },
+        "news_desk": "OpEd",
+        "print_page": "22",
+        "print_section": "A",
+        "pub_date": "2026-08-17T09:02:55Z",
+        "section_name": "Opinion",
+        "snippet": "Silicon Valley was never pacifist; it just followed the customers.",
+        "source": "The New York Times",
+        "subsection_name": "",
+        "type_of_material": "Op-Ed",
+        "uri": "nyt://article/ddf71ab5-a3e5-5045-a805-6fd800a4a3dd",
+        "web_url": "https://www.nytimes.com/2026/08/17/opinion/silicon-valley-war-pentagon.html",
+        "word_count": 1256
+      },
+      {
+        "abstract": "Tech leaders see Matt Mahan, a moderate Democrat, as their best option in the California governor’s race, but tensions haverisen as he has struggled to gain traction in polls.",
+        "byline": { "original": "By Theodore Schleifer" },
+        "document_type": "article",
+        "headline": {
+          "main": "$35 Million or Your Money Back: One Candidate’s Silicon Valley Lifeline",
+          "kicker": "",
+          "print_headline": "A Candidate Innovates to Raise Money From Silicon Valley"
+        },
+        "_id": "nyt://article/2094365c-1379-5ff1-8ce6-6d8187e9eb09",
+        "keywords": [
+          { "name": "Person", "value": "Mahan, Matt", "rank": 1 },
+          { "name": "Location", "value": "Silicon Valley (Calif)", "rank": 2 },
+          {
+            "name": "Subject",
+            "value": "Political Action Committees",
+            "rank": 3
+          }
+        ],
+        "multimedia": {
+          "caption": "Matt Mahan has entered the California governor’s race as a Silicon Valley ally opposed to a billionaire’s tax.",
+          "credit": "Jeff Chiu/Associated Press",
+          "default": {
+            "url": "https://static01.nyt.com/images/2026/04/07/multimedia/07pol-ca-mahan-vchf/07pol-ca-mahan-vchf-articleLarge.jpg",
+            "height": 400,
+            "width": 600
+          },
+          "thumbnail": {
+            "url": "https://static01.nyt.com/images/2026/04/07/multimedia/07pol-ca-mahan-vchf/07pol-ca-mahan-vchf-thumbStandard.jpg",
+            "height": 75,
+            "width": 75
+          }
+        },
+        "news_desk": "National",
+        "print_page": "16",
+        "print_section": "A",
+        "pub_date": "2026-04-08T01:17:28Z",
+        "section_name": "U.S.",
+        "snippet": "Tech leaders see Matt Mahan, a moderate Democrat, as their best option in the California governor’s race, but tensions have risen as he has struggled to gain traction in polls.",
+        "source": "The New York Times",
+        "subsection_name": "Elections",
+        "type_of_material": "News",
+        "uri": "nyt://article/2094365c-1379-5ff1-8ce6-6d8187e9eb09",
+        "web_url": "https://www.nytimes.com/2026/04/07/us/elections/california-governor-mahan-donor-silicon-valley.html",
+        "word_count": 862
+      },
+      {
+        "abstract": "Andy Mariani grows exotic and ethereally delicious stone fruit in the shadow of tech giants. But at age 80, it’s time to give up the land.",
+        "byline": { "original": "By Carol Pogash and Ian C. Bates" },
+        "document_type": "article",
+        "headline": {
+          "main": "A Silicon Valley Dirt Farmer Hangs Up His Shears",
+          "kicker": "",
+          "print_headline": "A Silicon Valley Dirt Farmer Hangs Up His Shears"
+        },
+        "_id": "nyt://article/6d5cc80c-ea2e-5227-9dd5-e48591a8d99b",
+        "keywords": [
+          { "name": "Subject", "value": "Agriculture and Farming", "rank": 1 },
+          { "name": "Location", "value": "California", "rank": 2 },
+          { "name": "Subject", "value": "Fruit", "rank": 3 },
+          { "name": "Location", "value": "Silicon Valley (Calif)", "rank": 4 },
+          {
+            "name": "Subject",
+            "value": "Content Type: Personal Profile",
+            "rank": 5
+          },
+          {
+            "name": "Location",
+            "value": "Santa Clara County (Calif)",
+            "rank": 6
+          },
+          { "name": "Subject", "value": "Family Business", "rank": 7 },
+          { "name": "Subject", "value": "Land Use Policies", "rank": 8 }
+        ],
+        "multimedia": {
+          "caption": "",
+          "credit": "",
+          "default": {
+            "url": "https://static01.nyt.com/images/2026/08/12/15Biz-SV-Orchar-video-41315-cover/15Biz-SV-Orchar-video-41315-cover-articleLarge.jpg",
+            "height": 1067,
+            "width": 600
+          },
+          "thumbnail": {
+            "url": "https://static01.nyt.com/images/2026/08/12/15Biz-SV-Orchar-video-41315-cover/15Biz-SV-Orchar-video-41315-cover-thumbStandard.jpg",
+            "height": 75,
+            "width": 75
+          }
+        },
+        "news_desk": "SundayBusiness",
+        "print_page": "1",
+        "print_section": "BU",
+        "pub_date": "2026-08-14T09:00:40Z",
+        "section_name": "Business",
+        "snippet": "Andy Mariani grows exotic and ethereally delicious stone fruit in the shadow of tech giants. But at age 80, it’s time to give up the land.",
+        "source": "The New York Times",
+        "subsection_name": "",
+        "type_of_material": "News",
+        "uri": "nyt://article/6d5cc80c-ea2e-5227-9dd5-e48591a8d99b",
+        "web_url": "https://www.nytimes.com/2026/08/14/business/andys-orchard-silicon-valley.html",
+        "word_count": 1295
+      },
+      {
+        "abstract": "At home, moderation and restraint are the rule for tech parents. Boredom is exalted. Maybe they’re onto something.",
+        "byline": { "original": "By David Streitfeld" },
+        "document_type": "article",
+        "headline": {
+          "main": "Silicon Valley Executives Are Tech Fans. Just Not for Their Own Kids.",
+          "kicker": "",
+          "print_headline": "Fans of Tech, but Notfor Kids"
+        },
+        "_id": "nyt://article/5617683c-b0af-5a5e-bf0f-4a6b97a5feaa",
+        "keywords": [
+          { "name": "Subject", "value": "Screen Time (Device)", "rank": 1 },
+          { "name": "Subject", "value": "Parenting", "rank": 2 },
+          {
+            "name": "Subject",
+            "value": "Computers and the Internet",
+            "rank": 3
+          },
+          { "name": "Subject", "value": "Social Media", "rank": 4 },
+          { "name": "Subject", "value": "Artificial Intelligence", "rank": 5 },
+          { "name": "Subject", "value": "Children and Childhood", "rank": 6 },
+          { "name": "Subject", "value": "Mobile Applications", "rank": 7 },
+          { "name": "Organization", "value": "Facebook Inc", "rank": 8 },
+          { "name": "Organization", "value": "Google Inc", "rank": 9 },
+          { "name": "Organization", "value": "Instagram Inc", "rank": 10 },
+          { "name": "Organization", "value": "Meta Platforms Inc", "rank": 11 },
+          { "name": "Organization", "value": "OpenAI Labs", "rank": 12 },
+          { "name": "Organization", "value": "Snap Inc", "rank": 13 },
+          {
+            "name": "Organization",
+            "value": "Waldorf School of the Peninsula",
+            "rank": 14
+          },
+          { "name": "Organization", "value": "YouTube.com", "rank": 15 },
+          { "name": "Person", "value": "Altman, Samuel H", "rank": 16 },
+          { "name": "Person", "value": "Cook, Timothy D", "rank": 17 },
+          { "name": "Person", "value": "Chan, Priscilla", "rank": 18 },
+          { "name": "Person", "value": "Gates, Bill", "rank": 19 },
+          { "name": "Person", "value": "Palihapitiya, Chamath", "rank": 20 },
+          { "name": "Person", "value": "Pichai, Sundar", "rank": 21 },
+          { "name": "Person", "value": "Spiegel, Evan", "rank": 22 },
+          { "name": "Person", "value": "Thiel, Peter A", "rank": 23 },
+          { "name": "Person", "value": "Zuckerberg, Mark E", "rank": 24 }
+        ],
+        "multimedia": {
+          "caption": "",
+          "credit": "Patrick Leger",
+          "default": {
+            "url": "https://static01.nyt.com/images/2026/08/18/business/00biz-tech-kids/00biz-tech-kids-articleLarge.jpg",
+            "height": 909,
+            "width": 600
+          },
+          "thumbnail": {
+            "url": "https://static01.nyt.com/images/2026/08/18/business/00biz-tech-kids/00biz-tech-kids-thumbStandard-v2.jpg",
+            "height": 75,
+            "width": 75
+          }
+        },
+        "news_desk": "Business",
+        "print_page": "1",
+        "print_section": "B",
+        "pub_date": "2026-08-18T09:01:53Z",
+        "section_name": "Technology",
+        "snippet": "At home, moderation and restraint are the rule for tech parents. Boredom is exalted. Maybe they’re onto something.",
+        "source": "The New York Times",
+        "subsection_name": "",
+        "type_of_material": "News",
+        "uri": "nyt://article/5617683c-b0af-5a5e-bf0f-4a6b97a5feaa",
+        "web_url": "https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html",
+        "word_count": 1401
+      },
+      {
+        "abstract": "“This felt like a decidedly anti-tech election.”",
+        "byline": {
+          "original": "By Max Read, Erin Griffith, Whitney Jones, Sawyer Roque, Vjeran Pavic, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Marion Lozano and Diane Wong"
+        },
+        "document_type": "article",
+        "headline": {
+          "main": "Why the Tech Right Lost Big This Week",
+          "kicker": "",
+          "print_headline": ""
+        },
+        "_id": "nyt://article/0eb35d81-325c-5400-b8c0-3ce52d41aa18",
+        "keywords": [
+          { "name": "Subject", "value": "Science and Technology", "rank": 1 },
+          { "name": "Subject", "value": "Midterm Elections (2026)", "rank": 2 },
+          { "name": "Person", "value": "Musk, Elon", "rank": 3 },
+          { "name": "Subject", "value": "Artificial Intelligence", "rank": 4 },
+          { "name": "Subject", "value": "Data Centers", "rank": 5 },
+          { "name": "Location", "value": "Silicon Valley (Calif)", "rank": 6 }
+        ],
+        "multimedia": {
+          "caption": "",
+          "credit": "Photo Illustration by The New York Times; Images:Eric Lee/The New York Times, Getty Images",
+          "default": {
+            "url": "https://static01.nyt.com/images/2026/11/06/podcasts/06hardfork-tech-midterms-video/06hardfork-tech-midterms-video-articleLarge.jpg",
+            "height": 400,
+            "width": 600
+          },
+          "thumbnail": {
+            "url": "https://static01.nyt.com/images/2026/11/06/podcasts/06hardfork-tech-midterms-video/06hardfork-tech-midterms-video-thumbStandard.jpg",
+            "height": 75,
+            "width": 75
+          }
+        },
+        "news_desk": "Podcasts",
+        "print_page": "",
+        "print_section": "",
+        "pub_date": "2026-11-06T11:00:19Z",
+        "section_name": "Podcasts",
+        "snippet": "“This felt like a decidedly anti-tech election.”",
+        "source": "The New York Times",
+        "subsection_name": "",
+        "type_of_material": "News",
+        "uri": "nyt://article/0eb35d81-325c-5400-b8c0-3ce52d41aa18",
+        "web_url": "https://www.nytimes.com/2026/11/06/podcasts/hardfork-midterms-tech-right.html",
+        "word_count": 269
+      },
+      {
+        "abstract": "Anthropic and OpenAI are clashing with the rest of the tech industry over whether “open-source” models from China should be freely available or restricted.",
+        "byline": {
+          "original": "By Natalie Kitroeff, Mike Isaac, Diana Nguyen, Chris Benderev, Stella Tan, Annie Minoff, Marc Georges, Marion Lozano, Rowan Niemisto, Pat McCusker and Alyssa Moxley"
+        },
+        "document_type": "article",
+        "headline": {
+          "main": "The Fight Tearing Apart Silicon Valley",
+          "kicker": "",
+          "print_headline": ""
+        },
+        "_id": "nyt://article/d95c2c2a-0728-5636-ab04-69d8caf815da",
+        "keywords": [
+          { "name": "Subject", "value": "Artificial Intelligence", "rank": 1 },
+          {
+            "name": "Subject",
+            "value": "Computers and the Internet",
+            "rank": 2
+          },
+          {
+            "name": "Subject",
+            "value": "Regulation and Deregulation of Industry",
+            "rank": 3
+          },
+          { "name": "Organization", "value": "Anthropic AI LLC", "rank": 4 },
+          { "name": "Organization", "value": "OpenAI Labs", "rank": 5 },
+          { "name": "Location", "value": "China", "rank": 6 }
+        ],
+        "multimedia": {
+          "caption": "In the last few weeks, two Chinese start-ups released artificial intelligence models that rival those from U.S. labs.",
+          "credit": "Hector Retamal/Agence France-Presse — Getty Images",
+          "default": {
+            "url": "https://static01.nyt.com/images/2026/07/31/multimedia/31Daily-OpenAI-swap-jqkz/31Daily-OpenAI-swap-jqkz-articleLarge.jpg",
+            "height": 400,
+            "width": 600
+          },
+          "thumbnail": {
+            "url": "https://static01.nyt.com/images/2026/07/31/multimedia/31Daily-OpenAI-swap-jqkz/31Daily-OpenAI-swap-jqkz-thumbStandard.jpg",
+            "height": 75,
+            "width": 75
+          }
+        },
+        "news_desk": "Podcasts",
+        "print_page": "",
+        "print_section": "",
+        "pub_date": "2026-07-31T10:00:13Z",
+        "section_name": "Podcasts",
+        "snippet": "Anthropic and OpenAI are clashing with the rest of the tech industry overwhether “open-source” models from China should be freely available or restricted.",
+        "source": "The New York Times",
+        "subsection_name": "The Daily",
+        "type_of_material": "News",
+        "uri": "nyt://article/d95c2c2a-0728-5636-ab04-69d8caf815da",
+        "web_url": "https://www.nytimes.com/2026/07/31/podcasts/the-daily/ai-open-source-china-silicon-valley.html",
+        "word_count": 378
+      },
+      {
+        "abstract": "The debate over thesafety of artificial intelligence grew personal as key tech leaders said calls for government regulation were self-serving and misplaced.",
+        "byline": { "original": "By Kalley Huang and Mike Isaac" },
+        "document_type": "article",
+        "headline": {
+          "main": "Some in Silicon Valley Are Questioning the Calls for an A.I. Slowdown",
+          "kicker": "",
+          "print_headline": "Is A.I. Too Big to Slow Down?"
+        },
+        "_id": "nyt://article/5dc59c1d-fc6c-5234-95af-df0b63b26aa0",
+        "keywords": [
+          { "name": "Subject", "value": "Artificial Intelligence", "rank": 1 },
+          {
+            "name": "Subject",
+            "value": "Regulation and Deregulation of Industry",
+            "rank": 2
+          },
+          {
+            "name": "Subject",
+            "value": "Computers and the Internet",
+            "rank": 3
+          },
+          { "name": "Subject", "value": "Computer Security", "rank": 4 },
+          { "name": "Organization", "value": "Anthropic AI LLC", "rank": 5 },
+          { "name": "Organization", "value": "OpenAI Labs", "rank": 6 },
+          { "name": "Organization", "value": "Hugging Face Inc", "rank": 7 },
+          { "name": "Person", "value": "Amodei, Dario", "rank": 8 },
+          { "name": "Person", "value": "Sacks, David O", "rank": 9 },
+          { "name": "Person", "value": "Trump, Donald J", "rank": 10 },
+          {
+            "name": "Subject",
+            "value": "United States Politics and Government",
+            "rank": 11
+          }
+        ],
+        "multimedia": {
+          "caption": "OpenAI offices in San Francisco. Sam Altman, the company’s chief executive, agreed with the Anthropic chief’s call to slow down artificial intelligence advancements.",
+          "credit": "Lucas Foglia for The New York Times",
+          "default": {
+            "url": "https://static01.nyt.com/images/2026/09/13/multimedia/13biz-ai-pushback-wplf/13biz-ai-pushback-wplf-articleLarge.jpg",
+            "height": 400,
+            "width": 600
+          },
+          "thumbnail": {
+            "url": "https://static01.nyt.com/images/2026/09/13/multimedia/13biz-ai-pushback-wplf/13biz-ai-pushback-wplf-thumbStandard.jpg",
+            "height": 75,
+            "width": 75
+          }
+        },
+        "news_desk": "Business",
+        "print_page": "1",
+        "print_section": "B",
+        "pub_date": "2026-09-14T01:54:19Z",
+        "section_name": "Technology",
+        "snippet": "The debate over the safety of artificial intelligence grew personal as keytech leaders said calls for government regulation were self-serving and misplaced.",
+        "source": "The New York Times",
+        "subsection_name": "",
+        "type_of_material": "News",
+        "uri": "nyt://article/5dc59c1d-fc6c-5234-95af-df0b63b26aa0",
+        "web_url": "https://www.nytimes.com/2026/09/13/technology/silicon-valley-ai-slowdown.html",
+        "word_count": 973
+      },
+      {
+        "abstract": "The prolific producers Michelle and Robert King target tech bigwigs in their newest show. “They’re really the stupidest and dumbest people,” Robert King said.",
+        "byline": { "original": "By Alexis Soloski and Amir Hamja" },
+        "document_type": "article",
+        "headline": {
+          "main": "On ‘Cupertino,’ Creators of the ‘The Good Wife’ Go to Silicon Valley",
+          "kicker": "",
+          "print_headline": "Tech Bros, This Show May Not Be for You"
+        },
+        "_id": "nyt://article/42da2458-43bb-5916-b5cd-34414c4c67e3",
+        "keywords": [
+          { "name": "Subject", "value": "Television", "rank": 1 },
+          { "name": "Title", "value": "Cupertino (TV Program)", "rank": 2 },
+          {
+            "name": "Person",
+            "value": "King, Michelle (Screenwriter)",
+            "rank": 3
+          },
+          {
+            "name": "Person",
+            "value": "King, Robert (Screenwriter)",
+            "rank": 4
+          },
+          { "name": "Person", "value": "Colter, Mike (1976- )", "rank": 5 },
+          { "name": "Person", "value": "Keller, Rachel (1992- )", "rank": 6 },
+          { "name": "Organization", "value": "CBS Corporation", "rank": 7 },
+          { "name": "Location", "value": "Silicon Valley (Calif)", "rank": 8 }
+        ],
+        "multimedia": {
+          "caption": "",
+          "credit": "",
+          "default": {
+            "url": "https://static01.nyt.com/images/2026/09/20/multimedia/20cul-new-cupertino-01-kmhj/20cul-new-cupertino-01-kmhj-articleLarge.jpg",
+            "height": 450,
+            "width": 600
+          },
+          "thumbnail": {
+            "url": "https://static01.nyt.com/images/2026/09/20/multimedia/20cul-new-cupertino-01-kmhj/20cul-new-cupertino-01-kmhj-thumbStandard.jpg",
+            "height": 75,
+            "width": 75
+          }
+        },
+        "news_desk": "Arts&Leisure",
+        "print_page": "78",
+        "print_section": "AR",
+        "pub_date": "2026-09-17T09:02:35Z",
+        "section_name": "Arts",
+        "snippet": "The prolific producers Michelle and Robert King target tech bigwigs in their newest show. “They’re really the stupidest and dumbest people,” Robert King said.",
+        "source": "The New York Times",
+        "subsection_name": "Television",
+        "type_of_material": "News",
+        "uri": "nyt://article/42da2458-43bb-5916-b5cd-34414c4c67e3",
+        "web_url": "https://www.nytimes.com/2026/09/17/arts/television/cupertino-robert-and-michelle-king.html",
+        "word_count": 1224
+      }
+    ],
+    "metadata": { "hits": 10000, "offset": 0, "time": 184 }
+  }
+}
